@@ -4,5 +4,7 @@ Hello everyone, I'm Keops, a mechatronics engineer. I'll share with you my progr
 To use the codes you need to have the following libraries previously installed:
 
 pip install opencv-contrib-python
+
 pip install pyqt5
+
 pip install numpy
